@@ -1,5 +1,4 @@
 {
-  "framework": "vite",
   "installCommand": "npm install --prefix artifacts/doxo-migration-clone",
   "buildCommand": "npm --prefix artifacts/doxo-migration-clone run build",
   "outputDirectory": "artifacts/doxo-migration-clone/dist"
