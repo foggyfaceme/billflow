@@ -1,6 +1,6 @@
 {
   "framework": "vite",
-  "installCommand": "cd artifacts/doxo-migration-clone && npm install",
-  "buildCommand": "cd artifacts/doxo-migration-clone && npm run build",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
   "outputDirectory": "artifacts/doxo-migration-clone/dist"
 }
